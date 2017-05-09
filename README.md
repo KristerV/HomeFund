@@ -6,6 +6,7 @@
 1. Uue liikme vastuvõtmine toimub Otsuse põhjal.
 1. Kui aasta pärast (18.03.2017) selgub, et asi on soiku jäänud ja lootust ei ole saavad kõik oma raha täies mahus tagasi (lubadust saab täita tänu LHV tasuta ülekannetele).
 1. Kõik panustajad saavad ringis võrdselt ühe hääle - nagu ikka.
+1. Fookuse hoidmisekson grupi maksimaalne suurus 16 inimest.
 
 ## Visioon
 
