@@ -22,6 +22,8 @@ Me pole mõnda aega otsuseid vastu võtnud, aga rääkides jäävad alati kõlam
 
 Mu point on, et reeglid 4, 5 ja 7 on sisu poolest kehtetud. Meil tuleb ainult kokku saada ja uued otsused vastu võtta.
 
+Mailing list: https://goo.gl/forms/8bIYatcaGGIy8c4q1
+
 ## Kogumise konto
 
 Krister Viirsaar  
